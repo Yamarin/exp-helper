@@ -14,6 +14,8 @@
   "styles": ["styles/exp-helper.css"],
   "packs": [],
   "languages": [],
-  "url": "https://your-module-url.com",
+  "manifest": "https://github.com/Yamarin/exp-helper/releases/download/v1.0.0/module.json",
+  "url": "https://github.com/Yamarin/exp-helper",
+  "download": "https://github.com/Yamarin/exp-helper/releases/download/v1.0.0/exp-helper.zip",
   "license": "LICENSE"
 }
