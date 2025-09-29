@@ -1,0 +1,19 @@
+{
+  "name": "exp-helper",
+  "title": "Experience Helper",
+  "description": "A module for Foundry VTT v12 and Pathfinder 2e v6 to allow the Gamemaster to give experience points to player characters.",
+  "version": "1.0.0",
+  "author": "Yamarin",
+  "minimumCoreVersion": "12",
+  "compatibleCoreVersion": "12",
+  "system": ["pf2e"],
+  "minimumSystemVersion": "6.0.0",
+  "manifest": "module.json",
+  "scripts": ["scripts/exp-helper.js"],
+  "esmodules": [],
+  "styles": ["styles/exp-helper.css"],
+  "packs": [],
+  "languages": [],
+  "url": "https://your-module-url.com",
+  "license": "LICENSE"
+}

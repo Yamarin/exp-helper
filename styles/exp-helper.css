@@ -1,0 +1,52 @@
+/* Experience Helper Styles - adapted from yama-exp.css */
+.xp-manager {
+    padding: 10px;
+}
+.xp-manager .form-group {
+    margin-bottom: 15px;
+}
+.xp-manager label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.xp-manager input[type="number"] {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+.actor-checkbox {
+    display: flex;
+    align-items: center;
+    padding: 3px 0;
+}
+.actor-checkbox input[type="checkbox"] {
+    margin-right: 8px;
+}
+.actor-checkbox label {
+    font-weight: normal;
+    margin: 0;
+    cursor: pointer;
+}
+.actor-list {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-top: 10px;
+    min-height: 48px;
+    width: 100%;
+}
+.give-xp-button {
+    padding: 5px 10px;
+    background: #4a4a4a;
+    color: #fff;
+    border: 1px solid #000;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.give-xp-button:hover {
+    background: #666;
+}
