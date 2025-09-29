@@ -8,7 +8,6 @@
   "compatibleCoreVersion": "12",
   "system": ["pf2e"],
   "minimumSystemVersion": "6.0.0",
-  "manifest": "module.json",
   "scripts": ["scripts/exp-helper.js"],
   "esmodules": [],
   "styles": ["styles/exp-helper.css"],
